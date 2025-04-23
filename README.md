@@ -55,6 +55,12 @@ This view supports quality audits, anomaly detection, and pattern exploration.
 - **DAX (Data Analysis Expressions)**
 - **Interactive Visuals** (cards, pie charts, bar charts, line graphs, heatmaps)
 
+## 📷 Dashboard Interaction
+- <a href="https://github.com/priti7540/Uber-Trip-Analysis-Dashboard/blob/main/Uber%20Trip%20Analysis%20Oveerview%20Dashboard.png">Overview Dashboard</a>
+- <a href="https://github.com/priti7540/Uber-Trip-Analysis-Dashboard/blob/main/Uber%20Trip%20%20Time%20Analysis%20Dashboard.png">Time Analysis Dashboard</a>
+- <a href="https://github.com/priti7540/Uber-Trip-Analysis-Dashboard/blob/main/Uber%20Trip%20Details%20Dashboard.png">Trip Details Dashboard</a>
+- <a href="https://github.com/priti7540/Uber-Trip-Analysis-Dashboard/blob/main/Uber%20Trip%20Analysis(Model%20View).png">Model View</a>
+
 ## 💡 Business Insights Derived
 
 - **Vehicle Type:** UberX dominates with 38.7K bookings (~37% of total).
