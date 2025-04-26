@@ -77,7 +77,7 @@ These insights can help Uber improve:
 
 
 ## 📷 Dashboard Preview
-"C:\Users\satya\Desktop\Uber Trip Analysis Project.mp4"
+- <a href="C:\Users\satya\Desktop\Uber Trip Analysis Project.mp4">vdo</a>
 
 ### Overview Analysis
 ![Uber Trip Analysis Oveerview Dashboard](https://github.com/user-attachments/assets/c4c6dc7b-56b3-4c7f-8a04-4079286a78b7)
